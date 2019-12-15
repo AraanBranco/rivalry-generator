@@ -106,4 +106,7 @@ public/
 # Ignore all local history of files
 .history
 
+# File generate
+odds.txt
+
 # End of https://www.gitignore.io/api/node,visualstudiocode
