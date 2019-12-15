@@ -1,0 +1,1 @@
+## RivalryGG - Text match result generator
